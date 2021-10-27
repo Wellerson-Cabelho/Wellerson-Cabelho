@@ -1,8 +1,8 @@
 ### Olá! Tudo bem? Sou o Wellerson Cabelho 👋
 ##
 
-  [![Wellerson-Cabelho Github stats](https://github-readme-stats.vercel.app/api?username=Wellerson-Cabelho&show_icons=true&theme=tokyonight)]
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wellerson-Cabelho&layout=compact&theme=tokyonight)](https://github.com/Wellerson-Cabelho/github-readme-stats)
+  ![Wellerson-Cabelho Github stats](https://github-readme-stats.vercel.app/api?username=Wellerson-Cabelho&show_icons=true&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wellerson-Cabelho&layout=compact&theme=tokyonight)
 
 ##
 
